@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 💫 About Me:
-🔭 I’m currently working on Urbanclub, an artist web app.<br>👯 I’m looking to collaborate on Web Development.<br>🤝 I’m looking for help with Creating New Solutions.<br>🌱 I’m currently learning MongoDB.<br>💬 Ask me about the whole world of music.<br>⚡ Fun fact i like to play padel.
+👯 I’m looking to collaborate on Web Development.<br>🤝 I’m looking for help with Creating New Solutions.<br>🌱 I’m currently learning MongoDB.<br>💬 Ask me about the whole world of music.<br>⚡ Fun fact i like to play padel.
 
 
 ## 🌐 Socials:
