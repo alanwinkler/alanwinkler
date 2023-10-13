@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 💫 About Me:
-👯 I’m looking to collaborate on Web Development.<br>🤝 I’m looking for help with Creating New Solutions.<br>🌱 I’m currently learning MongoDB.<br>💬 Ask me about the whole world of music.<br>⚡ Fun fact I'm a musician.
+👯 I’m looking to collaborate on Web Development.<br>🤝 I’m looking for help with Creating New Solutions.<br>🌱 I’m currently learning Python with Django.<br>💬 Ask me about the whole world of music.<br>⚡ Fun fact I'm a musician.
 
 
 ## 🌐 Socials:
